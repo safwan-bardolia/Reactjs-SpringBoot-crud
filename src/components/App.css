@@ -1,0 +1,13 @@
+.app > table {
+ border:1px solid black; 
+}
+
+.edit{
+  color: white !important;
+  background-color: blueviolet !important;
+}
+
+.delete {
+  color: white !important;
+  background-color: red !important;
+}
